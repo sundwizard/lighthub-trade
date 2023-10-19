@@ -1,0 +1,84 @@
+.myheadings{
+    font-size: 30px !important;
+}
+
+hr{
+    margin-top: -8px;
+}
+
+.title{
+    font-size: 15px !important;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    font-size: 10px;
+    color: black;
+    font-weight: bolder;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+
+}
+.impact{
+    text-align: center;
+    background-color: white;
+    padding-top: 15px;
+    border: 1px solid rgba(128, 128, 128, 0.371);
+}
+.main div {
+    width: 75px;
+    height: 70px;
+    text-align: center;
+}
+
+.high{
+    background-color: red;
+    font-weight: bolder;
+    color: white;
+    font-size: 35px !important;
+    animation-name: high;
+    animation-duration: 10s;
+    animation-iteration-count: 10;
+
+}
+
+@keyframes high {
+    0%   {background-color: rgba(255, 0, 0, 0.296);}
+    25%  {background-color: rgb(255, 98, 0);}
+    50%  {background-color: rgba(255, 0, 0, 0.375);}
+    100% {background-color: rgb(79, 5, 5);}
+  }
+
+.medium{
+    background-color:#ffcc00;
+    font-weight: bolder;
+    font-size: 35px !important;
+    color: white;
+    animation-name: medium;
+    animation-duration: 10s;
+    animation-iteration-count: 10;
+}
+
+@keyframes medium {
+    0%   {background-color: yellow;}
+    25%  {background-color: #ffcc00;}
+    50%  {background-color: #ffcc00;}
+    100% {background-color: #ffcc00;}
+  }
+.low{
+    background-color: green;
+    font-weight: bolder;
+    color: white;
+    font-size: 35px !important;
+    animation-name: low;
+    animation-duration: 10s;
+    animation-iteration-count: 10;
+}
+
+@keyframes low {
+    0%   {background-color: lightgray;}
+    25%  {background-color: green;}
+    50%  {background-color: green;}
+    100% {background-color: darkgreen;}
+  }

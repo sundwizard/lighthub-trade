@@ -1,0 +1,178 @@
+[28-Jun-2023 16:40:30 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 16:40:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 16:49:20 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 16:49:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 16:49:21 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 16:49:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 18:19:34 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 18:19:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 18:19:34 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 18:19:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 18:21:24 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 18:21:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 18:21:24 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 18:21:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 18:21:25 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 18:21:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 18:21:26 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 18:21:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:26:24 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:26:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:26:24 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:26:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:26:25 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:26:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:26:25 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:26:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:26:26 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:26:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:26:26 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:26:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:38:30 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:38:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:38:30 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:38:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:42:04 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 19:42:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 21:11:44 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 21:11:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 21:11:47 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 21:11:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 23:26:35 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 23:26:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 23:26:45 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 23:26:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 23:49:53 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 23:49:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 23:49:54 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[28-Jun-2023 23:49:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 00:12:58 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 00:12:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 00:12:58 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 00:12:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 00:22:47 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 00:22:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 00:34:51 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 00:34:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 00:34:51 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 00:34:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 02:04:59 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 02:04:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 02:05:05 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 02:05:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 02:47:54 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 02:47:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 03:45:48 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 03:45:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 05:05:01 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 05:05:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 05:05:01 UTC] PHP Warning:  require(/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 05:05:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lighbeep/trade.lighthubtech.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lighbeep/trade.lighthubtech.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lighbeep/trade.lighthubtech.com/index.php on line 34
+[29-Jun-2023 06:56:52 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.28. in /home/lighbeep/lighthub-trade/vendor/composer/platform_check.php on line 24
+[03-Aug-2023 07:24:38 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.29. in /home/lighbeep/lighthub-trade/vendor/composer/platform_check.php on line 24
+[28-Aug-2023 08:35:33 UTC] PHP Fatal error:  Cannot redeclare App\Http\Livewire\SuperAdmin\Trades\CreateTradeComponent::startTrade() in /home/lighbeep/lighthub-trade/app/Http/Livewire/SuperAdmin/Trades/CreateTradeComponent.php on line 51
